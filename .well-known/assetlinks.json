@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.docenterodrigodiaz_commits.twa",
+        "sha256_cert_fingerprints": ["13:95:7C:31:4E:A8:9F:A1:31:FD:92:9C:F9:D2:49:FF:9D:B4:B7:24:53:19:2A:99:B1:B6:28:D6:B3:D5:3D:F6"]
+      }
+    }]
